@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "444524590318",
+    "project_id": "deliveree-d38bb",
+    "storage_bucket": "deliveree-d38bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444524590318:android:963ae16f68e7cfdc2a6fff",
+        "android_client_info": {
+          "package_name": "com.anon.deliveree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444524590318-fqa7s0ocb8emlnurjlcuuiin8laauk0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anon.deliveree",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "444524590318-v070ve134sbb5lbpc11fa9ub1s4v0pvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUQ2N6x-oVDJGQyHgHkrCrrf0n8880_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444524590318-61tf860bf5kvjinue61tkm8cjnkbd6l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444524590318-tsb3occkvccjl45arlnfrlpjvdgtnmgc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anon.deliveree"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
